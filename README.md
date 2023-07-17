@@ -1,7 +1,7 @@
 <h1 align="center">Hi ☺ , I'm Anshu Sharma ♣</h1>
 <h3 align="center">Data Science and ML enthusiast | Chess ♥</h3>
 
-- ◘ I’m currently working on **Mushroom Classification**
+- ◘ I’m currently working on **Gesture Prediction**
 
 - ◘ I’m currently learning **Django**
 
